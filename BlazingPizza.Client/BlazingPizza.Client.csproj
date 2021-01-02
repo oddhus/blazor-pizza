@@ -4,6 +4,9 @@
     <TargetFramework>netstandard2.1</TargetFramework>
     <LangVersion>7.3</LangVersion>
     <RazorLangVersion>3.0</RazorLangVersion>
+    <AspNetCoreVersion>3.1.4</AspNetCoreVersion>
+    <BlazorVersion>3.2.0</BlazorVersion>
+    <SystemNetHttpJsonVersion>3.2.0</SystemNetHttpJsonVersion>
   </PropertyGroup>
 
   <ItemGroup>
