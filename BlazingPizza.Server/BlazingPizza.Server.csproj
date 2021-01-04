@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <LangVersion>7.3</LangVersion>
+    <LangVersion>8.0</LangVersion>
     <AspNetCoreVersion>3.1.4</AspNetCoreVersion>
     <BlazorVersion>3.2.0</BlazorVersion>
     <EntityFrameworkVersion>3.1.4</EntityFrameworkVersion>
@@ -23,5 +23,4 @@
     <ProjectReference Include="..\BlazingPizza.Client\BlazingPizza.Client.csproj" />
     <ProjectReference Include="..\BlazingPizza.Shared\BlazingPizza.Shared.csproj" />
   </ItemGroup>
-
 </Project>

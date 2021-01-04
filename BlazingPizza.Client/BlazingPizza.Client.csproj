@@ -20,6 +20,6 @@
   <ItemGroup>
     <ProjectReference Include="..\BlazingPizza.ComponentsLibrary\BlazingPizza.ComponentsLibrary.csproj" />
     <ProjectReference Include="..\BlazingPizza.Shared\BlazingPizza.Shared.csproj" />
+    <ProjectReference Include="..\BlazingComponents\BlazingComponents.csproj" />
   </ItemGroup>
-  
 </Project>
